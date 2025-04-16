@@ -18,6 +18,7 @@ How it works:
   Otherwise, keep LEDs off.
   Mode = 1 (Display mode):
   When a button is pressed, show the respective candidate’s vote count on the LED output.
+
 4.voting_machine Top Module
 Purpose: Connects everything together.
 How it works:
